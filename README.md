@@ -1,79 +1,104 @@
- <!-- FreshLabs Interactive — Organization Profile -->
+ <div align="center">
 
-<div align="center">
+<img src="./assets/FL_Int.png" width="360" alt="FreshLabs Interactive Logo" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,50:0755A5,100:00C8FF&height=220&section=header&text=FRESHLABS%20INTERACTIVE&fontSize=43&fontColor=FFFFFF&fontAlignY=38&desc=ENGINEERING%20%E2%80%A2%20SOFTWARE%20%E2%80%A2%20INNOVATION&descSize=14&descAlignY=58&animation=fadeIn" width="100%" />
+# BUILDING BEYOND THE ORDINARY.
 
-# Building Beyond the Ordinary.
+**INDEPENDENT DEVELOPMENT • SOFTWARE ENGINEERING • HARDWARE INNOVATION**
 
-**Independent Development Studio | Software | Hardware | Interactive Technology**
-
-[![Website](https://img.shields.io/badge/Website-FreshLabs-087CF0?style=for-the-badge&logo=googlechrome&logoColor=white)](https://freshlabs-interactive.github.io/)
-[![GitHub](https://img.shields.io/badge/GitHub-Explore%20Projects-181717?style=for-the-badge&logo=github)](https://github.com/FreshLabs-Interactive)
-[![Repositories](https://img.shields.io/badge/Repositories-Explore-00B8D9?style=for-the-badge&logo=github)](https://github.com/FreshLabs-Interactive?tab=repositories)
+[![GitHub](https://img.shields.io/badge/GitHub-FreshLabs--Interactive-111111?style=for-the-badge&logo=github&logoColor=FF0000)](https://github.com/FreshLabs-Interactive)
+[![Repositories](https://img.shields.io/badge/Explore-Projects-111111?style=for-the-badge&logo=github&logoColor=FF0000)](https://github.com/FreshLabs-Interactive?tab=repositories)
 
 </div>
 
 ---
 
-## `01` — About FreshLabs
+<div align="center">
 
-FreshLabs Interactive is an independent development studio focused on creating software, interactive experiences, hardware projects, and custom engineering solutions.
+### ` WHO WE ARE `
 
-From Unity development and desktop applications to embedded electronics, console modifications, and custom development tools, our projects are driven by experimentation, problem-solving, and a passion for building things differently.
+**WE CREATE. WE ENGINEER. WE INNOVATE.**
 
-**We don't just use technology. We build with it, modify it, and push its boundaries.**
+</div>
+
+FreshLabs Interactive is an independent development studio dedicated to building custom software, interactive experiences, hardware solutions, and experimental technology.
+
+Our work spans multiple areas of development, combining software engineering, game development, electronics, embedded systems, 3D modeling, and hardware modification.
+
+From custom Unity development tools and desktop applications to ESP32-powered devices and Xbox 360 engineering, every project represents an opportunity to explore new ideas and build something useful.
+
+We believe in understanding how technology works, pushing beyond its limitations, and creating our own solutions when existing ones aren't enough.
 
 ---
 
-## `02` — What We Build
+## `01` — DEVELOPMENT DIVISIONS
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎮 Game Development
-- Unity 6 development
-- Custom Unity Editor tools
-- Gameplay systems
-- Shader development
-- 3D assets and Blender tools
+<h3>🎮 GAME DEVELOPMENT</h3>
+
+Custom game development and tools built around Unity.
+
+- Unity 6 / Unity 6.3
+- Custom Unity Editor extensions
+- C# gameplay systems
+- URP shader development
+- Character and hair systems
+- Blender development tools
+- Asset pipeline automation
 - Game development utilities
 
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ Software Engineering
-- C# / .NET applications
-- WPF desktop software
-- Android applications
-- Developer utilities
-- Workflow automation
-- Custom software solutions
+<h3>💻 SOFTWARE ENGINEERING</h3>
+
+Custom applications and utilities designed to solve real problems.
+
+- C# and .NET development
+- WPF desktop applications
+- .NET MAUI Android applications
+- Windows utilities
+- File management tools
+- Developer productivity tools
+- Automation systems
+- Custom application interfaces
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🔌 Electronics & Embedded Systems
-- ESP32 development
-- Arduino projects
-- Custom PCBs and circuits
-- OLED / TFT displays
-- Wireless communication
-- Custom controllers and peripherals
+<h3>🔌 ELECTRONICS & EMBEDDED SYSTEMS</h3>
+
+Hardware projects combining electronics, firmware, and custom interfaces.
+
+- ESP32 / ESP32-C3 / ESP32-S3
+- Arduino / ATmega32U4
+- Custom macropads and controllers
+- OLED and TFT displays
+- ESP-NOW wireless communication
+- Bluetooth HID devices
+- Sensor integration
+- Custom firmware and electronics
 
 </td>
 <td width="50%" valign="top">
 
-### 🛠️ Console Modding & Engineering
-- Xbox 360 RGH projects
-- Custom console applications
+<h3>🛠️ CONSOLE MODDING & ENGINEERING</h3>
+
+Hardware and software development for console customization and modification.
+
+- Xbox 360 RGH / RGH3
+- Custom diagnostic systems
+- Sentry monitoring systems
+- LED control systems
+- Console utilities
 - Hardware modifications
-- Diagnostic systems
-- LED controllers
-- Console utilities and interfaces
+- Custom display interfaces
+- Console automation and tools
 
 </td>
 </tr>
@@ -81,74 +106,94 @@ From Unity development and desktop applications to embedded electronics, console
 
 ---
 
-## `03` — Featured Projects
+## `02` — FEATURED PROJECTS
 
-A selection of projects from the FreshLabs development ecosystem.
+A selection of projects from the FreshLabs Interactive development ecosystem.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔔 XNotify Tweaks
+<h3>🔔 XNotify Tweaks</h3>
 
-Custom Xbox 360 notification functionality.
+Custom Xbox 360 notification functionality and console customization.
 
-[View Repository](https://github.com/FreshLabs-Interactive/XNotify-Tweaks)
+[VIEW PROJECT →](https://github.com/FreshLabs-Interactive/XNotify-Tweaks)
 
 </td>
 <td width="50%" valign="top">
 
-### 💡 Lightshow v3
+<h3>💡 Lightshow v3</h3>
 
 An Xbox 360 Ring of Light and power LED customization system featuring programmable lighting sequences and an onboard Studio.
 
-[View Repository](https://github.com/FreshLabs-Interactive/Lightshow-v3)
+[VIEW PROJECT →](https://github.com/FreshLabs-Interactive/Lightshow-v3)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🖥️ xLume360 + Sentry Sync
+<h3>🖥️ xLume360 + Sentry Sync</h3>
 
-Combining xLume and Sentry Sync for an enhanced Xbox 360 experience.
+An integration of xLume and Sentry Sync, bringing together custom console lighting and system monitoring.
 
-[View Repository](https://github.com/FreshLabs-Interactive/xLume360-with-Sentry-Sync)
+[VIEW PROJECT →](https://github.com/FreshLabs-Interactive/xLume360-with-Sentry-Sync)
 
 </td>
 <td width="50%" valign="top">
 
-### 🎞️ Xbox 360 WMV9 Creator
+<h3>🎞️ Xbox 360 WMV9 Creator</h3>
 
-A custom utility for generating Xbox 360-compatible WMV9 video files for fakeanim.xex.
+A custom video conversion utility for creating Xbox 360-compatible WMV9 files for fakeanim.xex.
 
-[View Repository](https://github.com/FreshLabs-Interactive/Xbox-360-WMV9-Creator)
+[VIEW PROJECT →](https://github.com/FreshLabs-Interactive/Xbox-360-WMV9-Creator)
 
 </td>
 </tr>
 </table>
 
-**More projects:** [Browse all FreshLabs repositories →](https://github.com/FreshLabs-Interactive?tab=repositories)
+<div align="center">
+
+[![Explore All Projects](https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-FF0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FreshLabs-Interactive?tab=repositories)
+
+</div>
 
 ---
 
-## `04` — Technology Stack
+## `03` — SOFTWARE & DEVELOPMENT TOOLS
+
+Beyond our featured projects, FreshLabs develops a collection of tools and utilities designed to improve development workflows.
+
+| Category | Technologies and Projects |
+|:---|:---|
+| Unity Development | Editor extensions, shaders, localization, automation |
+| Desktop Software | WPF, .NET 8/9, C# |
+| Mobile Development | .NET MAUI, Android |
+| 3D Development | Blender, DAZ Studio, asset pipelines |
+| Developer Tools | Git integration, file utilities, automation |
+| Video & Media | Video conversion, hardware encoding, media utilities |
+| Embedded Software | ESP32 firmware, Arduino, Bluetooth |
+
+---
+
+## `04` — TECHNOLOGY STACK
 
 <div align="center">
 
-### Languages & Frameworks
+### PROGRAMMING LANGUAGES
 
-<img src="https://skillicons.dev/icons?i=cs,cpp,python,js,html,css,dotnet" />
+<img src="https://skillicons.dev/icons?i=cs,cpp,python,js,html,css" />
 
-### Game Development & 3D
+### FRAMEWORKS & GAME DEVELOPMENT
 
-<img src="https://skillicons.dev/icons?i=unity,blender" />
+<img src="https://skillicons.dev/icons?i=dotnet,unity,blender" />
 
-### Hardware & Embedded Development
+### HARDWARE & EMBEDDED DEVELOPMENT
 
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
 
-### Development Tools
+### DEVELOPMENT ENVIRONMENT
 
 <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,windows" />
 
@@ -156,43 +201,64 @@ A custom utility for generating Xbox 360-compatible WMV9 video files for fakeani
 
 ---
 
-## `05` — GitHub Statistics
+## `05` — ENGINEERING & EXPERIMENTATION
+
+Not every project starts with an existing solution.
+
+Some of our work involves exploring hardware limitations, reverse-engineering workflows, developing custom communication protocols, and building tools to bridge technologies that weren't originally designed to work together.
+
+Areas of ongoing experimentation include:
+
+- Embedded wireless communication
+- Custom hardware interfaces
+- Bluetooth and USB device development
+- Console diagnostics and monitoring
+- 3D asset processing and automation
+- Custom software integrations
+- Hardware and software interoperability
+
+**The goal is simple: understand the technology, find the possibilities, and build the solution.**
+
+---
+
+## `06` — DEVELOPMENT PHILOSOPHY
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=FreshLabs-Interactive&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C8FF&icon_color=087CF0&text_color=C9D1D9&rank_icon=github" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FreshLabs-Interactive&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C8FF&text_color=C9D1D9" />
-
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=FreshLabs-Interactive&theme=tokyonight&hide_border=true&background=0D1117&ring=087CF0&fire=00C8FF&currStreakLabel=00C8FF" />
+### THINK DIFFERENTLY. BUILD INDEPENDENTLY.
 
 </div>
 
----
-
-## `06` — Development Philosophy
-
-> Technology should be a starting point, not a limitation.
-
-- **Build:** Turn ideas into working software and hardware.
-- **Experiment:** Explore unconventional solutions.
-- **Improve:** Refine existing systems and create better tools.
-- **Share:** Make useful projects and knowledge accessible to others.
+| Principle | Description |
+|:---|:---|
+| INNOVATION | Explore ideas beyond conventional solutions. |
+| ENGINEERING | Understand the systems behind the technology. |
+| DEVELOPMENT | Turn concepts into functional projects. |
+| EXPERIMENTATION | Test, modify, improve, and push boundaries. |
+| OPEN DEVELOPMENT | Share projects, tools, and knowledge with the community. |
 
 ---
+
+## `07` — EXPLORE FRESHLABS
 
 <div align="center">
 
-### CONNECT WITH FRESHLABS
+<h3>HAVE A LOOK AROUND.</h3>
 
-[![Website](https://img.shields.io/badge/FreshLabs%20Website-087CF0?style=flat-square&logo=googlechrome&logoColor=white)](https://freshlabs-interactive.github.io/)
+Discover our projects, explore our source code, and follow development.
 
-[![GitHub](https://img.shields.io/badge/GitHub-FreshLabs--Interactive-181717?style=flat-square&logo=github)](https://github.com/FreshLabs-Interactive)
+[![Repositories](https://img.shields.io/badge/ALL_REPOSITORIES-FF0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FreshLabs-Interactive?tab=repositories)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C8FF,50:0755A5,100:07111F&height=110&section=footer" width="100%" />
+[![Organization](https://img.shields.io/badge/FRESHLABS_INTERACTIVE-181818?style=for-the-badge&logo=github&logoColor=FF0000)](https://github.com/FreshLabs-Interactive)
 
-**FRESHLABS INTERACTIVE**
+<br/>
 
-<sub>Independent Development • Creative Engineering • Continuous Innovation</sub>
+<img src="./assets/FL_Int.png" width="190" alt="FreshLabs Interactive" />
+
+# FRESHLABS INTERACTIVE
+
+**BUILDING BEYOND THE ORDINARY.**
+
+<sub>INDEPENDENT DEVELOPMENT • CREATIVE ENGINEERING • CONTINUOUS INNOVATION</sub>
 
 </div>
