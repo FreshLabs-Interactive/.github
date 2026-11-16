@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="./assets/FL_Int.png" width="360" alt="FreshLabs Interactive Logo" />
+<img src="./profile/assets/FL_Int.png" width="360" alt="FreshLabs Interactive Logo" />
 
 # BUILDING BEYOND THE ORDINARY.
 
