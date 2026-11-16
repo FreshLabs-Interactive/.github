@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,50:0755A5,100:00C8FF&height=220&section=header&text=FRESHLABS%20INTERACTIVE&fontSize=43&fontColor=FFFFFF&fontAlignY=38&desc=ENGINEERING%20%E2%80%A2%20SOFTWARE%20%E2%80%A2%20INNOVATION&descSize=14&descAlignY=58&animation=fadeIn" width="100%" />
+<img src="./assets/FL_Int.png" width="350" alt="FreshLabs Interactive">
 
 # Building Beyond the Ordinary.
 
